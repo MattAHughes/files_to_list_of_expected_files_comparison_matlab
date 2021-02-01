@@ -1,7 +1,7 @@
 %____________________________________
 
 % Author        - Vitamin-C
-% Status        - Functional -- Should rename the variables for clarity
+% Status        - Functional
 % Description   - Examines the names of files in a directory cd in
 %                 comparison to the expected list of names (at expected_files_list) and
 %                 saves the list of differences between the list and
